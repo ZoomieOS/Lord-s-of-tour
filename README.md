@@ -6,3 +6,15 @@ My first plugin on wordpress!
 - Data acquisition from the server and Create post
 
 This is beta version
+
+Install:
+
+Upload folder:
+ - assets
+ - includes
+ - js
+ - lord-of-tours.php
+
+in /wp-content/plugins/
+
+and upload lft-admin-parsing.php in root dir.
