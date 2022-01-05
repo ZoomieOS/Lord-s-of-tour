@@ -4,9 +4,6 @@ require_once( dirname(__FILE__) . '/wp-admin/includes/admin.php');
 
 $data = json_decode(file_get_contents('php://input'),true);
 
-var_dump($data);
-
-
 foreach ($data as $value) {
     foreach ($data as $v) {
 		
